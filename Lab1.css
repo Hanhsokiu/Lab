@@ -1,0 +1,12 @@
+h1{
+    color:rgb(52, 108, 197);
+    background: rgb(148,196,223);
+}
+.image {
+    position: absolute;
+    top: 112px;
+    right: 10px;
+    width:250px ;
+    height:200px;
+    max-width: 100%;
+}
